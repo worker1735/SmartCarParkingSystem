@@ -1,4 +1,7 @@
 <?php
+include('config.php');  // path project structure ke hisaab se adjust kare
+?>
+<?php
 $servername = "localhost";
 $username = "root";   // your DB username
 $password = "";       // your DB password
